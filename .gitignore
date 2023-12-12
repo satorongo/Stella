@@ -1,0 +1,17 @@
+*.exe
+*.ilk
+*.zip
+*.exp
+*.obj
+*.dll
+*.pdb
+*.nativecodeanalysis.xml
+*.lib
+*.4coder
+run.bat
+build
+.vs
+c_cpp_properties.json
+settings.json
+.clangd
+ 
